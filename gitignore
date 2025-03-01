@@ -1,0 +1,4 @@
+*.log
+.OS_sTORE
+Thumbs.db
+*.env
