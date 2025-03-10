@@ -34,4 +34,4 @@ jobs:
         run: ls -R && echo "Verification complete!"
 
       - name: Placeholder Test
-        run: echo "No Java files found. This is a placeholder test."
+        run: echo "No Java files found. This is a placeholder test for lab3-Hiba."
